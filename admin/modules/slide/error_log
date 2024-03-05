@@ -1,0 +1,47 @@
+[23-Jan-2022 20:49:00 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/demov2.gracehilllubukminturun.com/common/lib.php on line 33
+[23-Jan-2022 20:50:54 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/demov2.gracehilllubukminturun.com/common/lib.php on line 33
+[23-Jan-2022 20:50:55 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gracehil/demov2.gracehilllubukminturun.com/admin/modules/default/form.php on line 1022
+[23-Jan-2022 20:55:13 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/demov2.gracehilllubukminturun.com/common/lib.php on line 33
+[23-Jan-2022 20:55:50 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/demov2.gracehilllubukminturun.com/common/lib.php on line 33
+[15-Apr-2022 18:40:39 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/demov2.gracehilllubukminturun.com/common/lib.php on line 33
+[06-Jul-2022 02:46:40 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[06-Jul-2022 02:46:40 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 02:46:40 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 02:46:40 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 02:46:40 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 02:46:40 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 02:46:40 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:28:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:28:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:28:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:28:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:28:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:28:25 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:33:15 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[06-Jul-2022 14:33:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:33:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:33:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:33:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:33:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 14:33:15 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 15:10:31 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 15:10:31 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 15:10:31 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 15:10:31 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 15:10:31 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[06-Jul-2022 15:10:31 Asia/Jakarta] PHP Notice:  Undefined index: status in /home/gracehil/public_html/admin/modules/default/list.php on line 400
+[03-Aug-2022 16:39:27 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 16:41:17 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:26:24 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:26:57 Asia/Jakarta] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/gracehil/public_html/admin/modules/default/form.php on line 1022
+[03-Aug-2022 19:29:26 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:31:22 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:33:09 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:41:25 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:42:25 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:43:09 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:45:10 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:48:18 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[03-Aug-2022 19:51:17 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[16-Aug-2022 11:59:07 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[16-Aug-2022 12:01:42 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33

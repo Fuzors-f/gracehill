@@ -1,0 +1,3 @@
+[06-Jul-2022 15:56:14 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[06-Jul-2022 15:57:55 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
+[06-Jul-2022 15:58:51 Asia/Jakarta] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/gracehil/public_html/common/lib.php on line 33
